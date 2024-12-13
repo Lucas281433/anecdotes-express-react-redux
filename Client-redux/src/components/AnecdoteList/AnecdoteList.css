@@ -1,0 +1,8 @@
+.card {
+  border: 1px solid #ff7900;
+  background-color: #eddea4 !important;
+}
+
+.button-vote {
+  margin-left: 1rem !important;
+}
